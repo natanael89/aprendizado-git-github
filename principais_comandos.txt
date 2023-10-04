@@ -1,0 +1,9 @@
+Comandos git e github
+
+ - git commit -m "" [Registrar alterações no repositório] 
+ - git status  [Mostrar o status da árvore de trabalho]
+ - git add [Adicione o conteúdo do arquivo ao índice]
+ - git log [Mostrar registros de commit]
+ - git diff [Mostrar alterações entre commits]
+ - git pull [Buscar e integrar com]
+ - git push [Atualizar referências remotas junto com]
