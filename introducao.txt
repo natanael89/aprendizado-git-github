@@ -1,0 +1,11 @@
+O que é o GIT 
+
+ - GIT é um sistema de <controle de versão de arquivos>
+
+ - Com ele podemos <desenvolver projetos colaborativos> com facilidade
+
+O que é o GITHUB
+ 
+ - Serviço para <hospedar projetos Git>
+ 
+ - Permite projetos <privados ou Open Sources>
